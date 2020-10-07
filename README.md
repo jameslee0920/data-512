@@ -27,6 +27,7 @@ Pageview: Creative Commons Attribution-ShareAlike License
 | pageview_all_views      | num_views |
 | pageview_desktop_views  | num_views |
 | pageview_mobile_views   | num_views |
+
 Example of generating a datetime value from year and month is included in notebook file.
 
 ### Known Issues and Special Considerations
