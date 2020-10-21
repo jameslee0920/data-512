@@ -9,7 +9,7 @@ The two datasets used were from [Wikipedia Talk Labels: Toxicity](https://figsha
 
 More information such as the schema of the data is available [here](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release).
 
-
-
+<br>
+<br>
 
 The Images created via code is also viewable in this [folder](https://github.com/jameslee0920/data-512/tree/main/data-512-a2/Figures).  
